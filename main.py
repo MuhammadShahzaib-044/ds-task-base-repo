@@ -3,6 +3,9 @@
 # This file contains a menu-driven application to perform basic data structure operations.
 # Students are expected to implement missing features or enhance existing ones.
 
+def add(a+b):
+    return a + b
+
 def display_menu():
     print("\nData Structure Task App")
     print("1. Stack Operations")
